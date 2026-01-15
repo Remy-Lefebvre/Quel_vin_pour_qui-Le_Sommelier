@@ -1,6 +1,3 @@
 # Lien vers le projet
 
-🔗 **Démonstration en ligne** : [Quel Vin Pour Qui ? – Le Sommelier](https://bricedanielboisson.github.io)
-
----
-*Ce projet est hébergé via GitHub Pages.*
+🔗 **Fichiers Datasets scripts et Dashboard** : [Quel Vin Pour Qui ? – Le Sommelier](https://drive.google.com/drive/folders/1M486kOZg3hbebOOnOfpk3GLxdIPl6akw?usp=drive_link)
