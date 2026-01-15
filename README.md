@@ -4,7 +4,7 @@ Ce projet a été réalisé en équipe de trois dans le cadre de notre formation
 L’objectif était de mener une étude complète sur les vins français et de concevoir un outil de recommandation personnalisé, baptisé « Le Sommelier ».
 Nous avons présenté nos résultats devant les élèves, les formateurs et les personnes extérieurs invités ce jour-là.
 
-Objectifs :
+# Objectifs :
 - Analyser les caractéristiques des vins français et de leur consommateurs à partir de données publiques
 - Concevoir un outil de recommandation simple et efficace, basé sur les préférences des utilisateurs.
 - Présenter une étude claire, accessible et pédagogique, mettant en lumière les enjeux et les limites du projet.
