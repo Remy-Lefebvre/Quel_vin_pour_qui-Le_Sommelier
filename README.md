@@ -9,7 +9,7 @@ Nous avons présenté nos résultats devant les élèves, les formateurs et les 
 - Concevoir un outil de recommandation simple et efficace, basé sur les préférences des utilisateurs.
 - Présenter une étude claire, accessible et pédagogique, mettant en lumière les enjeux et les limites du projet.
 
-Méthodologie :
+# Méthodologie :
 - Recherche et sélection des données : Identification de jeux de données publics sur les vins français.
 - Chargement et stockage : Import des données sur Google BigQuery.
 - Nettoyage et harmonisation : Traitement des données via SQL et Python pour obtenir un jeu de données propre et exploitable.
@@ -18,22 +18,22 @@ Méthodologie :
 - Développement de l’outil : Mise en place de  via des filtres et des champs calculés sous PowerBI pour permettre une recommandation personnsalisée.
 - Outil perfectible : Souffre de certaines limites liées à l'interface de PowerBI
 
-Limites rencontrées :
+# Limites rencontrées :
 - Temps limité : Projet réalisé en 2 semaines incluant la préparation de la présenataion et la présentation elle-même.
 - Données incomplètes : Absence de certaines informations clés (prix, âge des consommateurs, etc.), nécessitant la génération de données fictives.
 - Biais dans les données : Surreprésentation de certains cépages ou régions viticoles, et focus exclusif sur les vins français.
 
 
-Point forts :
+# Point forts :
 - Nettoyage et harmonisation des données : Scripts robustes ayant permis d'obtenir un jeu de données propre et exploitable.
 - Choix d’indicateurs pertinents : Analyse bien reçue lors de la présentation, permettant à l’audience de comprendre les enjeux et les limites du projet.
 - Outil efficace et élégant : « Le Sommelier » répond à la problématique initiale et offre une base solide pour des améliorations futures.
 
-Perspectives d'évolution :
+# Perspectives d'évolution :
 - Avec des données plus complètes (caractéristiques des vins, préférences réelles des consommateurs, etc.) et une optimisation technique (scripts, langages, outils), il serait possible de développer un outil encore plus puissant, capable de répondre précisément à la question :
 « Quel vin pour qui ? » – du néophyte à l’expert.
 
-Technologies utilisées : 
+# Technologies utilisées : 
 - Google BigQuery : Stockage et traitement des données.
 - SQL & Python : Nettoyage et analyse des données.
 - Power BI : Visualisation et développement de l’outil de recommandation.
