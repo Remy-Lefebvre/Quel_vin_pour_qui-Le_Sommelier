@@ -1,3 +1,6 @@
-Lien vers le Dashboard avec l'outil intégré et la vidéo de la présentation le tout élégemment intégré dans le portofolio de mon collègue Brice :
+# Lien vers le projet
 
-<a href="https://bricedanielboisson.github.io//">
+🔗 **Démonstration en ligne** : [Quel Vin Pour Qui ? – Le Sommelier](https://bricedanielboisson.github.io)
+
+---
+*Ce projet est hébergé via GitHub Pages.*
