@@ -1,4 +1,4 @@
-# Quel_vin_pour_qui-Le_Sommelier
+## Quel_vin_pour_qui-Le_Sommelier
 
 Ce projet a été réalisé en équipe de trois dans le cadre de notre formation Data Analyst au Wagon Lyon (9 semaines intensives). 
 L’objectif était de mener une étude complète sur les vins français et de concevoir un outil de recommandation personnalisé, baptisé « Le Sommelier ».
